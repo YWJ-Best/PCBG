@@ -39,7 +39,7 @@ This paper proposes the **Pairwise Constrained Bipartite Graph (PCBG)** learning
 3. **Pairwise Constraint Friendly**: Explicitly integrating must-link / cannot-link constraints during the construction of the bipartite graph, enabling efficient utilization of supervisory information.
 
 
-## Method Framework Diagram
+## 🖼 Method Framework Diagram
 
 ![PCBG Framework](figs/pcbg_framework.png)
 
