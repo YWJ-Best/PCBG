@@ -46,6 +46,10 @@ This paper proposes the **Pairwise Constrained Bipartite Graph (PCBG)** learning
 *Figure: Schematic diagram of the proposed Pairwise Constrained Bipartite Graph (PCBG) one-step multi-view clustering framework.*
 
 
+---
+
+## 🔖 Citation
+
 If you find our work useful for your research, please consider citing our paper:
 
 ```bibtex
